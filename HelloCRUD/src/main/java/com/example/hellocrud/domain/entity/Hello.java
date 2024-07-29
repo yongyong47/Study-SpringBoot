@@ -1,7 +1,6 @@
-package com.example.bakbakcrud.domain.entity;
+package com.example.hellocrud.domain.entity;
 
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
